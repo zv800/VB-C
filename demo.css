@@ -1,16 +1,10 @@
-
-}
 body {
- 
+  background-color: powderblue;
 }
 h1 {
-    background-color: #D0E4F5;
+background-color: #D0E4F5;
 background-image: url("https://i.ytimg.com/vi/uNcd7WwmVlY/maxresdefault.jpg");
 background-repeat: no-repeat;
 background-attachment: scroll;
-background-position: 0 0;
-
-}
-p {
- 
+background-position: 50% 50%;
 }
